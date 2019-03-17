@@ -1,0 +1,17 @@
+<Group>
+    <name>java</name>
+    <users>
+        <users>
+            <name>Alex</name>
+            <age>22</age>
+        </users>
+        <users>
+            <name>Olga</name>
+            <age>23</age>
+        </users>
+        <users>
+            <name>Maks</name>
+            <age>25</age>
+        </users>
+    </users>
+</Group>
